@@ -10,7 +10,7 @@ const CONFIG = {
   // ---- Identificador único deste catálogo (marca + vendedor) ----
   // Usado pra checar na tabela "vendedores" se este catálogo está ativo
   // (assinatura em dia) ou pausado. Cada vendedor de cada marca tem o seu.
-  vendedorId: "nadir-leonardo",
+  vendedorId: "Jussara25-nadir",
 
   // ---- Marca / catálogo ----
   marca: "Nadir",
@@ -19,11 +19,11 @@ const CONFIG = {
 
   // ---- Dados do vendedor (aparecem no cabeçalho e no link do WhatsApp) ----
   vendedor: {
-    nome: "Leonardo Nantes",
-    slogan: "O seu Vendedor!",
+    nome: "Jussara Titon",
+    slogan: "A sua Vendedora!",
     foto: "assets/vendedor-foto.jpg",
     // Número de WhatsApp no formato internacional, só números (DDI 55 + DDD + número)
-    whatsapp: "5547997375295",
+    whatsapp: "5549991753851",
   },
 
   // ---- Cores da marca (usadas no cabeçalho e nos botões) ----
